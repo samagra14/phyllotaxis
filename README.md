@@ -13,7 +13,7 @@ Close packing of spheres generates a dodecahedral tessellation with pentaprismic
 In order to describe the pattern of florets (or seeds) in a sunflower head,
 Vogel proposed the formula <br> <br>
 <span><p style="text-align: center;"><b>  φ = n ∗ 137.5◦
-, <br> <br> ** r = c
+, <br> <br>  r = c
 √n <br> <br>
 </b>
 </p></span>
