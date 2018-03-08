@@ -3,7 +3,8 @@
 
 <br>
 <br>
-In botany, phyllotaxis or phyllotaxy is the arrangement of leaves on a plant stem . Phyllotactic spirals form a distinctive class of patterns in nature. This is just an implementation of the pattern. To view, click [here](https://samagra14.github.io/phyllotaxis).<br>
+In botany, phyllotaxis or phyllotaxy is the arrangement of leaves on a plant stem . Phyllotactic spirals form a distinctive class of patterns in nature. This is just an implementation of the pattern. To view, click [here](https://samagra14.github.io/phyllotaxis).
+<br>
 
 Physical models of phyllotaxis date back to Airy's experiment of packing hard spheres. Gerrit van Iterson diagrammed grids imagined on a cylinder (Rhombic Lattices).Douady et al. showed that phyllotactic patterns emerge as self-organizing processes in dynamic systems.In 1991, Levitov proposed that lowest energy configurations of repulsive particles in cylindrical geometries reproduce the spirals of botanical phyllotaxis.
 
