@@ -12,12 +12,12 @@ Close packing of spheres generates a dodecahedral tessellation with pentaprismic
 ### The Planar model
 In order to describe the pattern of florets (or seeds) in a sunflower head,
 Vogel proposed the formula <br> <br>
-<span><p style="text-align: center;"><b> ** φ = n ∗ 137.5◦**
+<span><p style="text-align: center;"><b>  φ = n ∗ 137.5◦
 , <br> <br> ** r = c
-√n,** (4.1)<br> <br>
+√n <br> <br>
 </b>
 </p></span>
-**
+
 where:
 * n is the ordering number of a floret, counting outward from the
 center. This is the reverse of floret age in a real plant.
