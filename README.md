@@ -43,15 +43,15 @@ center of the nth floret, given a constant scaling parameter c.
 
 ### Todos
 1. Allow continuous change of diverging angles
-2. Provide options for color hue with different combinations of ** r ** and ** φ ** .
+2. Provide options for color hue with different combinations of __ r __ and __ φ __ .
 
 ### Contributing
 Just send a PR.
 
 ### Sources
 * [Phyllotaxis on Wikipedia:](https://en.wikipedia.org/wiki/Phyllotaxis)
-* [Algorithmic Botany - Phyllotaxis:] (http://algorithmicbotany.org/papers/abop/abop-ch4.pdf)
-* [Phyllotaxis example:] (https://bl.ocks.org/mbostock/11463507)
+* [Algorithmic Botany - Phyllotaxis:](http://algorithmicbotany.org/papers/abop/abop-ch4.pdf)
+* [Phyllotaxis example:](https://bl.ocks.org/mbostock/11463507)
 
 ### This does nothing, Why did you make this ?
 I was bored (kidding, just to explore maths in nature).
